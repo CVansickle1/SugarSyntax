@@ -1,0 +1,14 @@
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.exe
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.deps.json
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.runtimeconfig.json
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.runtimeconfig.dev.json
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.dll
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.pdb
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.csproj.AssemblyReference.cache
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.AssemblyInfo.cs
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.dll
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.pdb
+C:\Users\cojo3\Desktop\repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.genruntimeconfig.cache
